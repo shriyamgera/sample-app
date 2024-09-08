@@ -42,7 +42,7 @@
     "windows": {
       "background": {
         "file": "background.html",
-        "background_optimization": false,
+        "background_optimization": true,
         "is_background_page": true
       },
       "desktop": {
